@@ -1,3 +1,3 @@
-# This Repo contains programs in C language
-# covered in Data Structure Applications Course 
-# During 4th Semester 
+$ git rm readme.md
+$ git commit
+$ git push
